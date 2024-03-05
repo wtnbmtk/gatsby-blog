@@ -1,0 +1,17 @@
+/* index.module.css */
+.ul {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, auto));
+  place-items: end center;
+  gap: 16px;
+}
+.ul a {
+  display: block;
+  max-width: 250px;
+  margin: auto;
+}
+.ul img {
+  max-width: 250px;
+}

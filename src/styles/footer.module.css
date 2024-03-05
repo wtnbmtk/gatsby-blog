@@ -1,0 +1,8 @@
+.footer small {
+  display: block;
+  margin: auto;
+}
+.footer nav {
+  width: fit-content;
+  margin: auto;
+}
